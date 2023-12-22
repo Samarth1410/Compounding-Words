@@ -13,3 +13,13 @@ A compounded word is a word that can be constructed by combining shorter words f
 4)	All the compounding words then are stored in a result list.
 5)	Longest and second longest words are picked from the list and returned with the execution time.
 
+To run the following command
+
+```bash
+  git clone https://github.com/Samarth1410/Compounding-Words.git
+```
+Open the command prompt in the target directory,
+
+```bash
+  python file.py
+```
